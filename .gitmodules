@@ -1,0 +1,6 @@
+[submodule "hw/sym"]
+	path = hw/sym
+	url = https://bhase@github.com/bhase/geda-symbols.git
+[submodule "hw/pcb"]
+	path = hw/pcb
+	url = https://bhase@github.com/bhase/pcb-footprints.git
